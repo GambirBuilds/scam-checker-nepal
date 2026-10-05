@@ -1,0 +1,6 @@
+{
+  "name": "Scam Checker Nepal",
+  "description": "Nepal's digital safety and scam awareness platform. Check suspicious messages, URLs, job offers, payment requests, and SMS warning signs with transparent risk assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
